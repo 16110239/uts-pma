@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Catalog Film</string>
+    <string name="judul_detail">judul_detail</string>
+    <string name="detail">detail</string>
+</resources>
